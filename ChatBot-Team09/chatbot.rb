@@ -2,5 +2,5 @@ puts 'What game? 1. Hearts 2. Bridge 3. Checkers 4. Chess 5. Global Thermonuclea
 name = gets.chomp
 STDOUT.sync = true
 if(name == 5)
-puts 'Hello, #{name}!'
+puts 'BOOM!'
 end
